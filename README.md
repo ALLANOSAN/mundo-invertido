@@ -1,6 +1,6 @@
 # Mundo invertido - DIO 
 
-🔗 [CLlique aqui para acessar](https://thamyresarm.github.io/dio-semana-frontend-mundo-invertido/)
+🔗 [CLlique aqui para acessar](https://github.com/ALLANOSAN/mundo-invertido)
 
 > Resultado
 
@@ -10,18 +10,6 @@
 <p align="center">
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
 </p>
-
-## Autor
-
-<a href="https://www.linkedin.com/in/thamyres-magalhaes/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24790794?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Thamyres Magalães</b></sub></a> <a href="https://www.linkedin.com/in/thamyres-magalhaes/" title="LinkedIn"></a>
- 
-Feito por Thamyres Magalhães 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Thamyres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thamyres-magalhaes/)](https://www.linkedin.com/in/thamyres-magalhaes/)
-[![Gmail Badge](https://img.shields.io/badge/-pink.thamyres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pink.thamyres@gmail.com)](mailto:pink.thamyres@gmail.com)
 
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
